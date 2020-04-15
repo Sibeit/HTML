@@ -1,0 +1,103 @@
+#background{
+	width: 1300px;
+}
+#title{
+	height: 109px;
+	background-image: url(img/bg_chs.png);
+}
+.bg{
+	height: 346px;
+	width: 11px;
+	background-image: url(img/body.png);
+}
+#rbg{
+	 position: relative;
+	  left: 1289px;
+	  top: -346px;
+}
+#body{
+	background-color: aliceblue;
+	width: 1278px;
+	height: 1500px;
+	position: relative;
+	left: 11px;
+	top: -710px;
+}
+#form{
+	width:1000px;
+	height:800px;
+	/*background: red;*/
+	position: relative;
+	left: 123px;
+	top: 100px;
+}
+p{
+	opacity: 0.7;
+}
+#text{
+	position:relative;
+	top: 30px;
+	width: 150px;
+	height: 500px;
+	
+}
+form{
+	width: 600px;
+	height: 800px;
+	/*background: red;*/
+	position:relative;
+	left: 160px;
+	top: -500px;
+}
+input{
+	height: 35px;
+	width: 400px;
+	background: ;
+}
+#nick{
+	position: relative;
+	top:15px;
+	border-color: #FF0000;
+}
+#age{
+	position: relative;
+	top:75px;
+}
+
+#email{
+	position: relative;
+	top:60px;
+	border-color: #FF0000;
+}
+
+#tel{
+	position: relative;
+	top:45px;
+}
+
+#psw{
+	position: relative;
+	top:30px;
+	border-color: #FF0000;
+}
+span{
+	color: #FF0000;
+}
+input:active{
+	border-color: blue;
+}
+#submit{
+	position: relative;
+	top:80px;
+	width: 120px;
+	background: #FF0000;
+	height: 50px;
+}
+#reset{
+	position: relative;
+	top:80px;
+	left: 30px;
+	width: 120px;
+	height: 50px;
+	background: #FF0000;
+}
